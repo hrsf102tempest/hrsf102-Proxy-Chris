@@ -1,0 +1,55 @@
+#main-container {
+  position: absolute;
+  width: 1100px;
+  display: block;
+  margin: -8px;
+}
+
+#yelp-banner {
+  width: 1424px;
+  height: 105px;
+}
+
+#background {
+  z-index: -1;
+  position: absolute;
+  margin: -8px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #e6e6e6;
+  height: 399px;
+  width: 100%;
+  top: 110px;
+}
+
+#root {
+  position: relative;
+  left: 162px;
+  top: 5px;
+  height: 104px;
+}
+
+#map, #app, #reservations {
+  display: inline-block;
+  position: relative;
+}  
+
+#map {
+  left: 233px;
+  top: 27px;
+}
+
+#app {
+  left: 228px;
+  top: -12px;
+}
+
+#reservations {
+  left: 893px;
+  top: -8px;
+}
+
+#reviews {
+  position: absolute;
+  top: 500px;
+  left: 2380px;
+}
