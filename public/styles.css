@@ -48,8 +48,10 @@
   top: -8px;
 }
 
-#reviews {
+#reviews-container {
+  width: 640px;
+  display: inline-block;
   position: absolute;
-  top: 500px;
-  left: 2380px;
+  left: 233px;
+  top: 590px;
 }
